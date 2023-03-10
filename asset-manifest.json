@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vedic-sanskrit/static/css/main.acb2d6c5.css",
-    "main.js": "/vedic-sanskrit/static/js/main.7b9aafa0.js",
+    "main.js": "/vedic-sanskrit/static/js/main.1cee6723.js",
     "static/js/787.ed310a66.chunk.js": "/vedic-sanskrit/static/js/787.ed310a66.chunk.js",
     "static/media/logo.png": "/vedic-sanskrit/static/media/logo.ee04f74c222df93c775f.png",
     "static/media/tuts1.jpg": "/vedic-sanskrit/static/media/tuts1.5914fbc2c11ecfc0222c.jpg",
@@ -12,11 +12,11 @@
     "static/media/upi.jpg": "/vedic-sanskrit/static/media/upi.7ce3af689021d3bedee8.jpg",
     "index.html": "/vedic-sanskrit/index.html",
     "main.acb2d6c5.css.map": "/vedic-sanskrit/static/css/main.acb2d6c5.css.map",
-    "main.7b9aafa0.js.map": "/vedic-sanskrit/static/js/main.7b9aafa0.js.map",
+    "main.1cee6723.js.map": "/vedic-sanskrit/static/js/main.1cee6723.js.map",
     "787.ed310a66.chunk.js.map": "/vedic-sanskrit/static/js/787.ed310a66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acb2d6c5.css",
-    "static/js/main.7b9aafa0.js"
+    "static/js/main.1cee6723.js"
   ]
 }
