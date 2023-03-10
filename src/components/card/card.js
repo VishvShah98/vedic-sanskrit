@@ -12,7 +12,7 @@ export default function Card(props) {
             <img
               className="card-img-top"
               src={props.image[3]}
-              alt="Card image cap"
+              alt="Card"
             />
             <div
               className="card-body text-black"
@@ -33,7 +33,7 @@ export default function Card(props) {
             <img
               className="card-img-top"
               src={props.image[1]}
-              alt="Card image cap"
+              alt="Card"
             />
             <div
               className="card-body text-black"
@@ -56,7 +56,7 @@ export default function Card(props) {
             <img
               className="card-img-top"
               src={props.image[2]}
-              alt="Card image cap"
+              alt="Card"
             />
             <div
               className="card-body text-black"
@@ -77,7 +77,7 @@ export default function Card(props) {
             <img
               className="card-img-top"
               src={props.image[0]}
-              alt="Card image cap"
+              alt="Card"
             />
             <div
               className="card-body text-black"

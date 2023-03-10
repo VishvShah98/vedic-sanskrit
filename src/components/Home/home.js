@@ -7,12 +7,8 @@ import img2 from "../../assets/WhatsApp Image 2023-01-07 at 9.51.15 AM (4).jpeg"
 import img3 from "../../assets/WhatsApp Image 2023-01-07 at 9.51.15 AM (6).jpeg";
 import img4 from "../../assets/WhatsApp Image 2023-01-07 at 9.51.15 AM.jpeg";
 
-
 export default function Home() {
-
-
   const images = [img1, img2, img3, img4];
-
 
   return (
     <>
@@ -37,8 +33,9 @@ export default function Home() {
         </div>
       </div>
       <Card image={images} />
-      <div id='contact'>
-      <Contact /></div>
+      <div id="contact">
+        <Contact />
+      </div>
     </>
   );
 }

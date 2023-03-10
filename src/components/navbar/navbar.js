@@ -2,16 +2,16 @@ import React from 'react'
 
 export default function Navbar() {
 
-  const handleContactClick = (event) => {
-    event.preventDefault();
-    const projectsSection = document.getElementById("contact");
-    projectsSection.scrollIntoView({ behavior: "smooth" });
-  };
-  const handleHomeClick = (event) => {
-    event.preventDefault();
-    const projectsSection = document.getElementById("home");
-    projectsSection.scrollIntoView({ behavior: "smooth" });
-  };
+  // const handleContactClick = (event) => {
+  //   event.preventDefault();
+  //   const projectsSection = document.getElementById("contact");
+  //   projectsSection.scrollIntoView({ behavior: "smooth" });
+  // };
+  // const handleHomeClick = (event) => {
+  //   event.preventDefault();
+  //   const projectsSection = document.getElementById("home");
+  //   projectsSection.scrollIntoView({ behavior: "smooth" });
+  // };
 
 
   return (
@@ -36,11 +36,11 @@ export default function Navbar() {
               Fees
             </a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link bg-black" href="#/"  onClick={handleContactClick}>
               Contact
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav></div>
   )
