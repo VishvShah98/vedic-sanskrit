@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vedic-sanskrit/static/css/main.acb2d6c5.css",
+    "main.js": "/vedic-sanskrit/static/js/main.7b9aafa0.js",
+    "static/js/787.ed310a66.chunk.js": "/vedic-sanskrit/static/js/787.ed310a66.chunk.js",
+    "static/media/logo.png": "/vedic-sanskrit/static/media/logo.ee04f74c222df93c775f.png",
+    "static/media/tuts1.jpg": "/vedic-sanskrit/static/media/tuts1.5914fbc2c11ecfc0222c.jpg",
+    "static/media/Study1.pdf": "/vedic-sanskrit/static/media/Study1.ada1ef5d0f631b7e93a7.pdf",
+    "static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM (6).jpeg": "/vedic-sanskrit/static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM (6).a89c1a48d20329e10855.jpeg",
+    "static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM (4).jpeg": "/vedic-sanskrit/static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM (4).0c41f84569abcbd12e01.jpeg",
+    "static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM.jpeg": "/vedic-sanskrit/static/media/WhatsApp Image 2023-01-07 at 9.51.15 AM.4170ba170005f647eaac.jpeg",
+    "static/media/upi.jpg": "/vedic-sanskrit/static/media/upi.7ce3af689021d3bedee8.jpg",
+    "index.html": "/vedic-sanskrit/index.html",
+    "main.acb2d6c5.css.map": "/vedic-sanskrit/static/css/main.acb2d6c5.css.map",
+    "main.7b9aafa0.js.map": "/vedic-sanskrit/static/js/main.7b9aafa0.js.map",
+    "787.ed310a66.chunk.js.map": "/vedic-sanskrit/static/js/787.ed310a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb2d6c5.css",
+    "static/js/main.7b9aafa0.js"
+  ]
+}
